@@ -1,5 +1,5 @@
 # ZSSN (Zombie Survival Social Network)
-A Rails API based in the challange: https://gist.github.com/brnrdog/d75a099ce9b71aa5c0e40ca6b6b4efcd
+A Rails API based in the challange: https://gist.github.com/mauricioklein/1b1f279ad2d9cb42bcf0018e1cf05cfb
 
 # TODO - README
 
